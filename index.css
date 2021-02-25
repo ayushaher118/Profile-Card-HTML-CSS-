@@ -80,3 +80,12 @@ color:hsl(0,0%,59%)  ;
 }
 .attribution{
  color:white;
+ position: fixed;
+ left: 0;
+ bottom: 0;
+ width: 100%;
+/*  background-color: hsl(0,0%,59%); */
+    /* color: ; */
+ text-align: left;
+ font-size:15px;
+}
