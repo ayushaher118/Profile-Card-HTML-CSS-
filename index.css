@@ -16,10 +16,19 @@ body{
     margin-top: -20%;
 }
 
+@media only screen and (min-width: 1440px){
 .profile-Card{
     margin-top: 10%;
     margin-left: 40%;
 }
+}
+
+@media only screen and (min-width: 375px){
+    .profile-Card{
+        margin-top: 120px;
+        margin-left: 12px;
+    }
+    }
 .name{
     font-size: 18px;
     font-weight: 700;
