@@ -1,0 +1,90 @@
+body{
+    background-color: hsl(185, 75%, 39%);
+    background-image: url("/images/bg-pattern-top.svg");
+    /* background-position-y: 100px; */
+    background-repeat: repeat-x;
+}
+
+.card{
+    border-radius: 7px;
+}
+
+.victor-Pic{
+    border-radius: 50%;
+    margin-left: 120px;
+    border: 5px solid white;
+    margin-top: -20%;
+}
+
+.profile-Card{
+    margin-top: 10%;
+    margin-left: 40%;
+}
+.name{
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 69px;;
+}
+
+.city{
+        font-size: 15px;
+        color: hsl(0, 0%, 59%);
+        font-weight: 700;
+
+}
+h5{
+    font-weight: 400;
+}
+
+.age{
+    
+    font-size: 18px;
+    color: hsl(0, 0%, 59%);
+    font-weight: 700;
+
+    margin-top: -39px;
+    margin-left: 200px;
+    
+}
+.city{
+    margin-left: 125px;
+    margin-top: 20px ;
+}
+
+.followers{
+font-size: 15px;
+color:hsl(0,0%,59%)  ;
+}
+
+.no-likes{
+    margin-top: -69px;
+    margin-left:125px
+}
+.likes{
+    color: hsl(0,0%,59%);
+    font-size: 15px;
+    margin-top: -2px;
+    margin-left: 125px;
+}
+
+.no-photos{
+    margin-top: -70px;
+    margin-left: 250px;
+}
+
+.Photos{
+    color: hsl(0,0%,59%);
+    font-size: 15px;
+    margin-top: -2px;
+    margin-left: 250px;
+}
+.attribution{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: hsl(0,0%,59%);
+    /* color: ; */
+    text-align: left;
+    font-size:15px;
+}
